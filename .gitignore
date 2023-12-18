@@ -1,0 +1,17 @@
+# OS-generated
+# ------------
+.DS_Store*
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Programming - general
+*.log
+
+*.tmp
+*.temp
+
+# Repo-specific
+# ------------
+
+# Folder to unpack archive to
+/LitEroticaV2JSON
