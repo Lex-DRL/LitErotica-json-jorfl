@@ -14,6 +14,10 @@ Source: https://gitgud.io/jorfl/novelai/-/blob/master/README.template.md
 
 Original download link on `mega`: https://mega.nz/folder/opxHRYYa#PNMKS9LQ6ldR3HCDlqts0g/file/J4I0SLIL
 
+This repo comes in tandem with [my `literotica` python package](https://github.com/Lex-DRL/literotica-PyPackage) designed to filter/sort the dataset easily to buld a custom story selection. And that package is actually the primary reason for this repo to exist.
+
+So I believe, the following text from the original dataset author isn't the best way to work with it anymore. But to give a credit, here it is, still:
+
 ## Note from the original repo
 
 ---
